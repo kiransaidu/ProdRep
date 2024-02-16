@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConAppProduct")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10b788f0e3fed66c3f40dc17399d91d25ff669a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConAppProduct")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConAppProduct")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
